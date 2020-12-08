@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/Afzal-Ind/Afzal-Ind.svg)](http://hits.dwyl.com/Afzal-Ind/Afzal-Ind)
 
 ### Thanks for looking around me! 🤩 🤩 &nbsp;
-Hey guys! I am a highly passionate about learning new tech stuff with an interest in learning existing things and building new things on top of that. <!-- I have recently graduated with a master’s degree in 🎓 **ML** 🎓  from 🏛 University 🏛.--> Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. <!-- Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products or photography.-->
+Hey guys! I am a highly passionate about learning new tech stuff exploring existing ones and building new things on top of that. <!-- I have recently graduated with a master’s degree in 🎓 **ML** 🎓  from 🏛 University 🏛.--> Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. <!-- Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products or photography.-->
 
 
 ### My technical stack:  
