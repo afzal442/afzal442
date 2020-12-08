@@ -28,7 +28,7 @@ Hey guys! I am a highly passionate about learning new tech stuff with an interes
 - 👯 I’m looking to collaborate on any exciting open source project
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything related to my domain , i would love to share my thoughts
-- 📫 How to reach me: Email and [linkedIn](www.linkedin.com) 
+- 📫 How to reach me: [Email](afzal442@gmail.com) and [linkedIn](www.linkedin.com) 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: Nothing to share now
 <br/>
