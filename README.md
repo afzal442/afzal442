@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">  I am Afzal
 
-Hey guys! I am a highly passionate about learning new tech stuff, exploring existing ones and building new things on top of that. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓.
+I am a highly passionate about learning new tech stuff, exploring existing ones and building new things on top of that. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓.
 
 
 ### Let's talk more:  
