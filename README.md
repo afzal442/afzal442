@@ -11,7 +11,7 @@ I am a highly passionate about learning new tech stuff, exploring existing ones 
 <a href="https://www.linkedin.com/in/">
   <img align="left" alt="afzal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Afzal-Ind">
+<a href="https://github.com/afzal442">
   <img align="left" alt="Afzal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://gitter.im/afzal442">
