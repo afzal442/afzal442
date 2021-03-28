@@ -1,9 +1,9 @@
 ### Hi there! I am Afzal 👋
 
-[![Website](https://img.shields.io/website?label=afzal-hacks.com&style=for-the-badge&url=https%3A%2F%2Fafzal-hacks.com)](https://github.com/afzal442)
+[![Website](https://img.shields.io/website?label=afzal-space.co&style=for-the-badge&url=https%3A%2F%2Fafzal-space.co)](https://afzal-space.co)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AfzalShams1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAfzalShams1&screen_name=AfzalShams1)
 
-I am a highly passionate about learning new tech stuff, exploring existing ones and building new things on top of that. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓.
+I am highly passionate about learning new tech stuff, exploring existing ones and building new things on top of that. Apart from coding, I always enjoy meeting new people and hearing about their perspectives on how different things work 🤓.
 
 
 ## I'm a profoundly Open Research Enthusiast, and Open Source Lover!!
