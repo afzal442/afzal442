@@ -8,7 +8,7 @@ I am highly passionate about learning new tech stuff, exploring existing ones an
 
 ## I'm a profoundly Open Research Enthusiast, and Open Source Lover!!
 
-- 🔭 I just got selected as mentee on one of the OLS projects in 3rd Cohort: [Become An Open Life Science Mentee or Mentor!][mentorship program]!
+- 🔭 I was mentee on one of the OLS projects in 3rd Cohort: [Become An Open Life Science Mentee or Mentor!][mentorship program]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
