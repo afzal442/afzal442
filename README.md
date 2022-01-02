@@ -9,9 +9,9 @@ I am highly passionate about learning new tech stuff, exploring existing ones an
 ## I'm a profoundly Open Research Enthusiast, and Open Source Lover!!
 
 - 🔭 I was a mentee on one of the OLS projects in 3rd Cohort: [Become An Open Life Science Mentee or Mentor!][mentorship program]!
-- 🌱 I’m currently learning docker, kubernetes and cloud-native architecture of Service Meshes [katakoda.com] 
+- 🌱 I’m currently learning kubernetes and cloud-native architecture of Service Meshes
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack codes
 
 
