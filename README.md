@@ -6,7 +6,7 @@
 I am highly passionate about learning new tech stuff, exploring existing ones and building new things on top of those stuff. Apart from that, I always enjoy meeting new people and hearing about their perspectives on how different things work 🤓.
 
 
-## I'm a profoundly Open Research Enthusiast, and Open Source Lover!!
+## I'm a profoundly Open Source Lover, and DevOps Enthusiast!!
 
 - 🔭 I am a OS contributor
 - 🌱 I’m currently learning kubernetes and cloud-native architecture of Service Meshes
