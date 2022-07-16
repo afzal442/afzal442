@@ -8,7 +8,7 @@ I am highly passionate about learning new tech stuff, exploring existing ones an
 
 ## I'm a profoundly Open Source Lover, and DevOps Enthusiast!!
 
-- 🔭 I am a OS contributor
+- 🔭 I am a OS contributor at Keptn | DevOps Enthusiast
 - 🌱 I’m currently learning kubernetes and its Network Policies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
