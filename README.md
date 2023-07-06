@@ -1,4 +1,4 @@
-### Hi there! I am Afzal 👋
+  ![ghprof](https://github.com/afzal442/afzal442/assets/11625672/0aec460c-259d-4aa7-ae7c-40c92b17aa73)
 
 <!-- [![Website](https://img.shields.io/website?label=afzal-space.co&style=for-the-badge&url=https%3A%2F%2Fafzal-space.co)](https://afzal-space.co) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/AfzalShams1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAfzalShams1&screen_name=AfzalShams1)
