@@ -13,7 +13,7 @@ I am highly passionate about learning new tech stuff, exploring existing ones an
 - 🔭 I am an OS contributor and a DevOps Enthusiast
 - 🌱 I’m learning GitOps at scale and other cloud native stuff
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hack codes
 
 
